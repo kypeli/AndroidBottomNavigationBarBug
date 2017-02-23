@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
-        android:id="@+id/action_dig"
+        android:id="@+id/action_dog"
         android:enabled="true"
         android:icon="@mipmap/ic_launcher"
         android:title="Dog" />
@@ -15,6 +15,11 @@
         android:enabled="true"
         android:icon="@mipmap/ic_launcher"
         android:title="Fish" />
+    <item
+        android:id="@+id/action_cow"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Cow" />
     <item
         android:id="@+id/action_parrot"
         android:enabled="true"
