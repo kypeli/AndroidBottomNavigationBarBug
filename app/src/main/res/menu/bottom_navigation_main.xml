@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_dig"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Dog" />
+    <item
+        android:id="@+id/action_cat"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Cat" />
+    <item
+        android:id="@+id/action_fish"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Fish" />
+    <item
+        android:id="@+id/action_parrot"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Parrot" />
+</menu>
